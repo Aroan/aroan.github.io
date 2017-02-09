@@ -2599,12 +2599,6 @@ a.search-result {
 .footer-inner {
   width: 960px;
 }
-.footer-inner:before {
-  content: " ";
-  float: left;
-  width: 260px;
-  min-height: 50px;
-}
 @media (min-width: 768px) and (max-width: 991px) {
   .footer-inner {
     width: auto;
